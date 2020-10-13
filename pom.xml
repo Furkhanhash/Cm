@@ -17,8 +17,8 @@
 		<mariadb.version>2.2.5</mariadb.version>
 		<servlet.version>3.0.1</servlet.version>
 		<jackson.version>1.9.12</jackson.version>
-		<cxf.version>3.3.5</cxf.version>
-		<cxf.bindings.version>3.3.5</cxf.bindings.version>
+		<cxf.version>3.4.0</cxf.version>
+		<cxf.bindings.version>3.4.0</cxf.bindings.version>
 		<poi.version>4.1.2</poi.version>
 	</properties>
 

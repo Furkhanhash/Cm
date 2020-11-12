@@ -17,7 +17,7 @@
 		<mariadb.version>2.2.5</mariadb.version>
 		<servlet.version>3.0.1</servlet.version>
 		<jackson.version>1.9.12</jackson.version>
-		<cxf.version>3.3.5</cxf.version>
+		<cxf.version>3.3.8</cxf.version>
 		<cxf.bindings.version>3.3.5</cxf.bindings.version>
 		<poi.version>4.1.2</poi.version>
 	</properties>
@@ -62,7 +62,7 @@
 <dependency>
     <groupId>org.kie.server</groupId>
     <artifactId>kie-server-api</artifactId>
-    <version>7.23.0.Final</version>
+    <version>7.46.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.kie.server</groupId>

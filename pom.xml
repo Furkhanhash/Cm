@@ -62,7 +62,7 @@
 <dependency>
     <groupId>org.kie.server</groupId>
     <artifactId>kie-server-api</artifactId>
-    <version>7.23.0.Final</version>
+    <version>7.51.0.Final</version>
 </dependency>
 <dependency>
     <groupId>org.kie.server</groupId>
